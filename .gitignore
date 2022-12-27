@@ -10,6 +10,26 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+#Unity3D generated files
+Packages/manifest.json
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+Assets/QFramework/Toolkits/ResKit/Editor.meta
+Assets/QFramework/Toolkits/ResKit/Example/Tests/Editor.meta
+Assets/QFramework/Toolkits/SupportOldQF/UIKitCreateService/Editor.meta
+Assets/QFramework/Toolkits/UIKit/Editor.meta
+Assets/QFramework/Toolkits/_CoreKit/CodeGenKit/Editor.meta
+Assets/QFramework/Toolkits/_CoreKit/Internal/Guidline/Editor.meta
+Assets/Resources.meta
+Assets/Resources/
+Packages/packages-lock.json
+ProjectSettings/AutoStreamingSettings.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/VersionControlSettings.asset
+ ProjectSettings/boot.config
+
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
